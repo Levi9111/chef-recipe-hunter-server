@@ -374,14 +374,14 @@
       "name": "Massimo Bottura",
       "experience": "6 years",
       "numRecipes": 4,
-      "recipesDescription": [
+      "recipes": [
         "Pepperoni",
         "Penne alla Vodka",
         "Fettuccine Alfredo",
         "Spaghetti Bolognese"
       ],
       "ratings": 3.7,
-      "recipes": [
+      "recipesDescription": [
         {
           "name": "Pepperoni",
           "ingredients": [
