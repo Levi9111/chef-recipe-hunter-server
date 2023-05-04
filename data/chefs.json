@@ -12,6 +12,57 @@
         "Osso Buco",
         "Tiramisu"
       ],
+      "ratings": 4.3,
+      "recipesDescription": [
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+          ],
+          "cookingDescription": "A simple yet classic Italian pasta dish that is quick and easy to prepare, perfect for a weeknight dinner.",
+          "rating": 4.5
+        },
+        {
+          "name": "Margherita Pizza",
+          "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "basil leaves",
+            "olive oil"
+          ],
+          "cookingDescription": "A traditional Italian pizza topped with tomato sauce, fresh mozzarella cheese, and basil leaves.",
+          "rating": 4.8
+        },
+        {
+          "name": "Osso Buco",
+          "ingredients": [
+            "veal shanks",
+            "onion",
+            "carrots",
+            "celery",
+            "tomato paste"
+          ],
+          "cookingDescription": "A flavorful Italian dish made with tender veal shanks braised in a rich tomato-based sauce, served with gremolata and risotto.",
+          "rating": 4.7
+        },
+        {
+          "name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "espresso",
+            "mascarpone cheese",
+            "eggs",
+            "cocoa powder"
+          ],
+          "cookingDescription": "A classic Italian dessert made with layers of espresso-soaked ladyfingers and a rich, creamy mascarpone cheese filling, dusted with cocoa powder.",
+          "rating": 4.9
+        }
+      ],
       "description": "Chef Marco Rossi has been creating delicious Italian dishes for over 15 years. He meticulously sources the freshest ingredients to bring authentic flavors and aromas to his dishes. Come experience his culinary artistry at Eatery Italiano.",
       "likes": 16
     },
@@ -28,6 +79,64 @@
         "Fettuccine Alfredo",
         "Tiramisu"
       ],
+      "ratings": 3.3,
+      "recipesDescription": [
+        {
+          "name": "Chicken Parmesan",
+          "ingredients": [
+            "chicken breast",
+            "breadcrumbs",
+            "marinara sauce",
+            "mozzarella cheese",
+            "parmesan cheese"
+          ],
+          "cookingDescription": "Bread chicken breast with breadcrumbs, then fry until golden brown. Top with marinara sauce, mozzarella, and parmesan cheese. Bake until cheese is melted and bubbly."
+        },
+        {
+          "name": "Pesto Pasta",
+          "ingredients": [
+            "pasta",
+            "basil leaves",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese"
+          ],
+          "cookingDescription": "Cook pasta until al dente. In a food processor, blend basil leaves, pine nuts, garlic, parmesan cheese, and olive oil to make the pesto sauce. Toss cooked pasta with the pesto sauce until well coated. Serve hot."
+        },
+        {
+          "name": "Caprese Salad",
+          "ingredients": [
+            "tomatoes",
+            "fresh mozzarella cheese",
+            "basil leaves",
+            "olive oil",
+            "balsamic vinegar"
+          ],
+          "cookingDescription": "Slice tomatoes and fresh mozzarella cheese. Arrange them on a plate with basil leaves. Drizzle with olive oil and balsamic vinegar. Season with salt and pepper to taste."
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "ingredients": [
+            "fettuccine pasta",
+            "butter",
+            "heavy cream",
+            "parmesan cheese",
+            "salt"
+          ],
+          "cookingDescription": "Cook fettuccine pasta until al dente. In a saucepan, melt butter and add heavy cream. Stir in parmesan cheese until melted and smooth. Season with salt to taste. Toss cooked pasta with the sauce until well coated. Serve hot."
+        },
+        {
+          "name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "espresso",
+            "mascarpone cheese",
+            "sugar",
+            "cocoa powder"
+          ],
+          "cookingDescription": "Dip ladyfingers in espresso and layer them in a dish. In a bowl, whisk together mascarpone cheese and sugar. Spread a layer of the cheese mixture on top of the ladyfingers. Repeat layers until the dish is full, ending with a layer of cheese. Dust with cocoa powder. Refrigerate for a few hours before serving."
+        }
+      ],
       "description": "Chef Sophia Bianchi is a master of Italian cuisine, with over 10 years of experience creating mouth-watering dishes. Her passion for cooking shines through in every dish she creates. Come enjoy her signature dishes at Eatery Italiano.",
       "likes": 12
     },
@@ -42,6 +151,53 @@
         "Lasagna",
         "Tiramisu",
         "Spaghetti Bolognese"
+      ],
+      "ratings": 3.9,
+      "recipesDescription": [
+        {
+          "name": "Margherita Pizza",
+          "ingredients": [
+            "Pizza dough",
+            "Tomato sauce",
+            "Mozzarella cheese",
+            "Fresh basil leaves",
+            "Olive oil"
+          ],
+          "cookingDescription": "Roll out the pizza dough, spread tomato sauce, sprinkle cheese, top with basil leaves and drizzle olive oil. Bake in a preheated oven until cheese is melted and crust is golden brown."
+        },
+        {
+          "name": "Lasagna",
+          "ingredients": [
+            "Lasagna noodles",
+            "Ground beef",
+            "Tomato sauce",
+            "Ricotta cheese",
+            "Mozzarella cheese"
+          ],
+          "cookingDescription": "Cook lasagna noodles according to package instructions. Brown ground beef in a pan, add tomato sauce and simmer. In a separate bowl, mix ricotta cheese and mozzarella cheese. In a baking dish, layer the noodles, beef mixture, and cheese mixture. Repeat the layers and bake in a preheated oven until cheese is melted and bubbly."
+        },
+        {
+          "name": "Tiramisu",
+          "ingredients": [
+            "Mascarpone cheese",
+            "Ladyfingers",
+            "Espresso",
+            "Cocoa powder",
+            "Whipped cream"
+          ],
+          "cookingDescription": "Dip ladyfingers in espresso and layer in a dish. Mix mascarpone cheese with whipped cream and layer on top of the ladyfingers. Repeat layers and sprinkle cocoa powder on top. Chill in the refrigerator for a few hours before serving."
+        },
+        {
+          "name": "Spaghetti Bolognese",
+          "ingredients": [
+            "Spaghetti",
+            "Ground beef",
+            "Tomato sauce",
+            "Onion",
+            "Garlic"
+          ],
+          "cookingDescription": "Cook spaghetti according to package instructions. In a pan, sauté onion and garlic, add ground beef and brown. Add tomato sauce and simmer. Serve sauce over cooked spaghetti."
+        }
       ],
       "description": "Chef Giovanni Rossi's love of cooking started at a young age in his family's kitchen in Italy. He has honed his skills over 8 years of experience, bringing the authentic flavors of Italy to every dish he creates. Come savor his delicious creations at Eatery Italiano.",
       "likes": 14
@@ -60,6 +216,68 @@
         "Bruschetta",
         "Caprese Salad"
       ],
+      "ratings": 2.9,
+      "recipesDescription": [
+        {
+          "name": "Margherita Pizza",
+          "ingredients": [
+            "Pizza dough",
+            "Tomato sauce",
+            "Mozzarella cheese",
+            "Basil leaves",
+            "Olive oil"
+          ],
+          "cooking_description": "1. Preheat the oven to 450°F.\n2. Stretch out the pizza dough and add the tomato sauce on top.\n3. Add mozzarella cheese on top of the sauce.\n4. Add basil leaves and drizzle olive oil.\n5. Bake for 10-12 minutes or until the crust is golden brown."
+        },
+        {
+          "name": "Pesto Pasta",
+          "ingredients": [
+            "Pasta",
+            "Basil leaves",
+            "Garlic",
+            "Parmesan cheese",
+            "Olive oil",
+            "Pine nuts"
+          ],
+          "cooking_description": "1. Cook pasta according to package instructions.\n2. In a blender, combine basil leaves, garlic, parmesan cheese, olive oil, and pine nuts.\n3. Blend until smooth.\n4. Drain pasta and mix in pesto sauce.\n5. Serve hot."
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "ingredients": [
+            "Fettuccine pasta",
+            "Heavy cream",
+            "Butter",
+            "Parmesan cheese",
+            "Garlic",
+            "Salt and pepper"
+          ],
+          "cooking_description": "1. Cook pasta according to package instructions.\n2. In a saucepan, melt butter and add minced garlic.\n3. Add heavy cream and grated parmesan cheese. Stir until the cheese has melted and the sauce has thickened.\n4. Add salt and pepper to taste.\n5. Drain pasta and mix in the Alfredo sauce.\n6. Serve hot."
+        },
+        {
+          "name": "Tiramisu",
+          "ingredients": [
+            "Mascarpone cheese",
+            "Ladyfingers",
+            "Espresso coffee",
+            "Cocoa powder",
+            "Egg yolks",
+            "Sugar",
+            "Marsala wine"
+          ],
+          "cooking_description": "1. In a mixing bowl, combine egg yolks and sugar. Beat until the mixture becomes light and creamy.\n2. Add mascarpone cheese and marsala wine. Beat until smooth.\n3. In a shallow dish, pour espresso coffee.\n4. Dip ladyfingers in the coffee and place them in a layer in a serving dish.\n5. Spread the mascarpone mixture on top of the ladyfingers.\n6. Repeat layers until all ingredients are used.\n7. Dust the top with cocoa powder.\n8. Refrigerate for at least 2 hours or until set."
+        },
+        {
+          "name": "Bruschetta",
+          "ingredients": [
+            "Baguette",
+            "Tomatoes",
+            "Basil leaves",
+            "Garlic",
+            "Olive oil"
+          ],
+          "cooking_description": "1. Preheat the oven to 400°F.\n2. Slice baguette into thin slices and arrange on a baking sheet.\n3. Brush olive oil on each slice.\n4. Bake for 5-7 minutes or until crispy.\n5. In a mixing bowl, combine diced tomatoes, chopped basil leaves, minced garlic, and a drizzle of olive oil.\n6. Spoon the tomato mixture onto the baguette slices.\n7. Serve immediately."
+        }
+      ],
       "description": "Chef Francesca Bianchi's passion for Italian cuisine started at a young age, learning to cook from her family in Tuscany. Her love for creating delicious dishes shows in her expertly crafted pastas, pizzas, and more. Come experience her culinary magic at Eatery Italiano.",
       "likes": 10
     },
@@ -74,10 +292,78 @@
         "Lasagna",
         "Chicken Parmesan",
         "Tiramisu",
-        "Fettuccine Alfredo",
-        "Bruschetta",
-        "Caprese Salad",
-        "Margherita Pizza"
+        "Fettuccine Alfredo"
+      ],
+      "ratings": 4.3,
+      "recipesDescription": [
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+          ],
+          "cooking_description": "Spaghetti Carbonara is a classic Italian pasta dish made with spaghetti, bacon, eggs, parmesan cheese, and black pepper. The key is to cook the spaghetti just right and to whisk the eggs and cheese into a creamy sauce. Top with additional black pepper and serve immediately."
+        },
+        {
+          "name": "Lasagna",
+          "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese",
+            "parmesan cheese",
+            "onion",
+            "garlic",
+            "italian seasoning"
+          ],
+          "cooking_description": "Lasagna is a classic Italian pasta dish made with lasagna noodles, ground beef, tomato sauce, ricotta cheese, mozzarella cheese, parmesan cheese, onion, garlic, and Italian seasoning. The key is to layer the ingredients just right and bake until the cheese is melted and bubbly. Serve with garlic bread and a green salad."
+        },
+        {
+          "name": "Chicken Parmesan",
+          "ingredients": [
+            "chicken breasts",
+            "breadcrumbs",
+            "parmesan cheese",
+            "egg",
+            "tomato sauce",
+            "mozzarella cheese",
+            "olive oil",
+            "garlic",
+            "basil"
+          ],
+          "cooking_description": "Chicken Parmesan is a classic Italian dish made with breaded chicken breasts, tomato sauce, and melted mozzarella cheese. The key is to bread the chicken just right and bake until golden brown. Serve with pasta and a green salad."
+        },
+        {
+          "name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "espresso",
+            "marsala wine",
+            "mascarpone cheese",
+            "heavy cream",
+            "sugar",
+            "cocoa powder"
+          ],
+          "cooking_description": "Tiramisu is a classic Italian dessert made with ladyfingers, espresso, marsala wine, mascarpone cheese, heavy cream, sugar, and cocoa powder. The key is to dip the ladyfingers just right and to whip the mascarpone cheese and heavy cream into a creamy filling. Top with cocoa powder and chill in the refrigerator before serving."
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "ingredients": [
+            "fettuccine",
+            "butter",
+            "heavy cream",
+            "parmesan cheese",
+            "garlic",
+            "salt",
+            "black pepper",
+            "parsley"
+          ],
+          "cooking_description": "Fettuccine Alfredo is a classic Italian pasta dish made with fettuccine noodles, butter, heavy cream, parmesan cheese, garlic, salt, black pepper, and parsley. The key is to cook the fettuccine just right and to whisk the butter, cream, and cheese into a creamy sauce. Top with parsley and serve immediately."
+        }
       ],
       "description": "Chef Antonio Romano has been perfecting his craft for over 12 years, bringing his passion for Italian cuisine to every dish he creates. His expertly crafted pastas, pizzas, and more",
       "likes": 18
@@ -88,11 +374,71 @@
       "name": "Massimo Bottura",
       "experience": "6 years",
       "numRecipes": 4,
-      "recipes": [
+      "recipesDescription": [
         "Pepperoni",
         "Penne alla Vodka",
         "Fettuccine Alfredo",
         "Spaghetti Bolognese"
+      ],
+      "ratings": 3.7,
+      "recipes": [
+        {
+          "name": "Pepperoni",
+          "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "pepperoni"
+          ],
+          "cooking_description": "1. Preheat oven to 450 degrees F (230 degrees C). 2. Roll out dough on a floured surface to desired size. 3. Transfer to a lightly greased pizza pan or baker's peel dusted with cornmeal. 4. Spread with tomato sauce, sprinkle with cheese, and top with pepperoni. 5. Bake for 15 to 20 minutes, or until golden."
+        },
+        {
+          "name": "Penne alla Vodka",
+          "ingredients": [
+            "penne pasta",
+            "butter",
+            "heavy cream",
+            "vodka",
+            "tomato sauce",
+            "garlic",
+            "red pepper flakes",
+            "salt",
+            "pepper",
+            "parmesan cheese"
+          ],
+          "cooking_description": "1. Cook pasta according to package instructions. 2. Melt butter in a large skillet over medium heat. 3. Add garlic and red pepper flakes and cook for 1 minute. 4. Add tomato sauce and vodka, and cook for 5 minutes. 5. Add heavy cream, salt, and pepper, and cook for 10 minutes. 6. Drain pasta and add to the sauce. 7. Serve with parmesan cheese."
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "ingredients": [
+            "fettuccine pasta",
+            "butter",
+            "heavy cream",
+            "garlic",
+            "salt",
+            "pepper",
+            "parmesan cheese"
+          ],
+          "cooking_description": "1. Cook pasta according to package instructions. 2. Melt butter in a large skillet over medium heat. 3. Add garlic and cook for 1 minute. 4. Add heavy cream, salt, and pepper, and cook for 5 minutes. 5. Add parmesan cheese and stir until melted. 6. Drain pasta and add to the sauce. 7. Serve with additional parmesan cheese."
+        },
+        {
+          "name": "Spaghetti Bolognese",
+          "ingredients": [
+            "spaghetti pasta",
+            "ground beef",
+            "onion",
+            "garlic",
+            "tomato paste",
+            "crushed tomatoes",
+            "beef broth",
+            "dried basil",
+            "dried oregano",
+            "salt",
+            "pepper",
+            "parmesan cheese"
+          ],
+          "cooking_description": "1. Cook pasta according to package instructions. 2. In a large skillet, cook ground beef over medium-high heat until browned. 3. Add onion and garlic and cook until softened. 4. Add tomato paste, crushed tomatoes, beef broth, dried basil, dried oregano, salt, and pepper, and simmer for 30 minutes. 5. Drain pasta and add to the sauce. 6. Serve with parmesan cheese."
+        }
       ],
       "description": "One famous Italian chef is Massimo Bottura. He is the owner and chef of Osteria Francescana, a three-Michelin-star restaurant located in Modena, Italy. Bottura is known for his innovative and contemporary approach to traditional Italian cuisine. He often incorporates unconventional ingredients and techniques into his dishes, resulting in a unique and unforgettable culinary experience. Bottura has been recognized as one of the world's greatest chefs and has won numerous awards for his contributions to the culinary world.",
       "likes": 19
